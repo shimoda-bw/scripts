@@ -5,4 +5,4 @@ scripts
 
 
 ##Samples
-*ScrollDirection: スクロールの方向を取得して処理を実行
+* ScrollDirection: スクロールの方向を取得して処理を実行
